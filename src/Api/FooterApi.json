@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Multan, Pakistan"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "123456789"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "Huzefahjaved@gmail.com"
+    }
+  ]
